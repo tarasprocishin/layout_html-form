@@ -1,0 +1,17 @@
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+input,
+div {
+  margin-bottom: 10px;
+}
+
+.last {
+  margin-bottom: 0;
+}
+
+.dificalty {
+  margin-bottom: 4px;
+}
